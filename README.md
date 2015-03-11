@@ -18,7 +18,7 @@ mkdir -p ~/.n98-magerun/modules/
 ```
 2. Clone the mpmd repository in there. 
 ```
-git clone git@github.com:AOEpeople/mpmd.git ~/.n98-magerun/modules/mpmd
+git clone https://github.com/AOEpeople/mpmd.git ~/.n98-magerun/modules/mpmd
 ```
 3. It should be installed.To see that it was installed, check to see if one of the new commands is in there.
 ```
